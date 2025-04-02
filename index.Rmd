@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my website!"
+title: "Welcome to my website from Ayush!"
 ---
-
-You're up and running!
+Hello Ayush here!
