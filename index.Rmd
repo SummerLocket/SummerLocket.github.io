@@ -1,4 +1,54 @@
 ---
-title: "Welcome to my website from Ayush!"
+title: "Welcome to my website from **Ayush Singh Bhadoriya**!"
+output: html_document
 ---
-Hello Ayush here!
+<style>
+  .profile-img {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 150px;  /* Adjust size as needed */
+    border-radius: 50%;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+</style>
+
+<img src="1686152075270.jpeg" alt="Ayush Singh Bhadoriya" class="profile-img">
+ 
+
+## **Exploring the Frontiers of Deep Learning & NLP**  
+**MS by Research | Computer Science & Engineering | IIT Bombay**  
+
+[View Research](#) | [Contact Me](#)  
+
+---
+
+## **About Me**  
+Currently pursuing an **MS by Research** in **Computer Science and Engineering** at **IIT Bombay**, my work revolves around **Deep Learning** and **Natural Language Processing (NLP)**. My research is centered on **Text-to-Speech (TTS) technology**, exploring innovative approaches to enhance AI-driven speech synthesis. Passionate about pushing the boundaries of machine learning, I strive to contribute to the future of human-computer interaction.  
+
+---
+
+## **Research Interests**  
+- 🧠 **Deep Learning** – Advancing AI models for speech and text processing  
+- 📝 **Natural Language Processing (NLP)** – Understanding and generating human language  
+- 🔊 **Text-to-Speech (TTS) Technology** – Enhancing AI-driven speech synthesis  
+
+---
+
+## **Featured Work & Publications**  
+- 📌 **[Title of Research Paper 1](#)** – *Short description and link to full paper*  
+- 📌 **[Title of Research Paper 2](#)** – *Short description and link to full paper*  
+- 📌 **[More publications…](#)**  
+
+---
+
+## **Get in Touch**  
+📧 **Email:** your.email@example.com  
+🔗 **[LinkedIn](#)**  
+🐙 **[GitHub](#)**  
+📖 **[Google Scholar](#)**  
+
+---
+
+### **© 2024 Ayush Singh Bhadoriya**  
+[Home](#) | [Research](#) | [Publications](#) | [Contact](#)  
