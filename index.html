@@ -304,25 +304,43 @@ Singh Bhadoriya</strong>!</h1>
 
 
 <style>
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .text-content {
+    max-width: 70%;
+  }
+
   .profile-img {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    width: 150px;  /* Adjust size as needed */
+    max-width: 150px; /* Adjust image size */
     border-radius: 50%;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    flex-shrink: 0; /* Prevent shrinking */
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+      text-align: center;
+    }
+    .profile-img {
+      margin-top: 20px;
+    }
   }
 </style>
+<div class="container">
+<div class="text-content">
+<pre><code> Exploring the Frontiers of Deep Learning &amp; NLP  
+MS by Research | Computer Science &amp; Engineering | IIT Bombay</code></pre>
+</div>
 <p><img src="1686152075270.jpeg" alt="Ayush Singh Bhadoriya" class="profile-img"></p>
-<div id="exploring-the-frontiers-of-deep-learning-nlp"
-class="section level2">
-<h2><strong>Exploring the Frontiers of Deep Learning &amp;
-NLP</strong></h2>
-<p><strong>MS by Research | Computer Science &amp; Engineering | IIT
-Bombay</strong></p>
+</div>
 <p><a href="#">View Research</a> | <a href="#">Contact Me</a></p>
 <hr />
-</div>
 <div id="about-me" class="section level2">
 <h2><strong>About Me</strong></h2>
 <p>Currently pursuing an <strong>MS by Research</strong> in
